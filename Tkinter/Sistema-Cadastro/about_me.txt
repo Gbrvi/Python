@@ -1,0 +1,12 @@
+/*-----------------SISTEMA DE CADASTRO-------------------*/
+
+This is a registration system made using Python and Tkinter in order to brush up my skills in Python
+
+Credits:
+
+- Gabriel Almeida (Programmer) 
+
+Emeritus:
+
+- Feikicast ORG (https://feikicast.github.io/site-beta/menu.html)
+
