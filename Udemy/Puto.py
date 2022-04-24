@@ -1,0 +1,15 @@
+from Aula_18_Smartphone import Smartphone
+
+smartphone = Smartphone('Xiaomi5')
+smartphone.desconectar()
+smartphone.conectar()
+smartphone.desconectar()
+smartphone.desligar()
+smartphone.ligar()
+smartphone.conectar()
+smartphone.conectar()
+smartphone.conectar()
+smartphone.desligar()
+smartphone.conectar()
+smartphone.desconectar()
+smartphone.desconectar()
